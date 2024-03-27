@@ -1,0 +1,36 @@
+/* En el css nos vamos a manejar con clases. Las clases las identificamos con un "."*/
+
+.encabezado{  
+    background-color: blueviolet;
+    color: black;
+ }
+ .alinear{
+    display: flex;
+    gap: 20px;
+}
+.foto  {
+    width: 200px;
+    height: 200px;
+}
+
+/*peso de la letra*/
+.titulo-exp{
+    font-weight: bold;
+}
+
+/* estilo de la letra */
+.parrafo-cursiva{
+   font-style: italic;
+}
+
+.bordes{
+ border-top: solid 0.5px black;
+ border-bottom: solid 0.5 black;
+}
+
+.caja-izquierda{
+   width: 50px;
+}
+.caja.derecha{ 
+   width: 70px;
+}
