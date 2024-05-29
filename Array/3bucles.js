@@ -13,8 +13,10 @@ for (let i = 0; i < numbers.length; i++) {
 }
 //funcion flecha o arrow function
 const arr = () => {};
+
 //funcion regular
 function arr1() {}
+
 //forEach
 names.forEach((element) => {
   console.log(element);
