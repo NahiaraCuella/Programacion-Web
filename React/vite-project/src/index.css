@@ -1,6 +1,9 @@
-.fondo{
-  background-color: rgb(131, 131, 201);
-}
+:root {background-color: rgb(131, 131, 201);}
 .bg-color {
   color: rgb(78, 49, 184);
+}
+.grilla{
+  display: grid;
+  grid-template-columns: repeat(3, 300px);
+  gap: 20px;
 }
