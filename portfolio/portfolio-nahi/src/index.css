@@ -1,12 +1,12 @@
 /* Variables de color */
 :root {
-  --color-principal: #353436; /* Azul */
-  --color-secundario: #353436; /* Coral */
-  --color-fondo: hsl(207, 78%, 69%); /* Fondo claro */
-  --color-texto: #333333; /* Texto oscuro */
+  --color-principal: #EDE4FF; /* Azul */
+  --color-secundario: #6528F7; /* Coral */
+  --color-fondo: #A076F9; /* Fondo claro */
+  --color-texto: #3d1490; /* Texto oscuro */
   --color-acento: #97b197; /* Verde */
-  --color-fondo-seccion: #46749e; /* Fondo para secciones */
-  --color-fondo-alterno: #9957ad; /* Fondo alterno para secciones */
+  --color-fondo-seccion: #D7BBF5; /* Fondo para secciones */
+  --color-fondo-alterno: #D7BBF5; /* Fondo alterno para secciones */
 }
 
 /* Tipografía */
@@ -132,4 +132,8 @@ header {
   justify-content: center; /* Centrar horizontalmente */
   align-items: center; /* Centrar verticalmente */
   height: 100vh; /* Altura completa de la ventana */
+}
+.tamaño{
+  width: 650px;
+
 }
